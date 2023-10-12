@@ -1,0 +1,2 @@
+# solana-ms
+anchor test
